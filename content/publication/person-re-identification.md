@@ -3,7 +3,7 @@ title = "Working Memory Capacity and Controlled Serial Memory Search"
 date = "2016-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["E Mızrak, I Öztekin"]
 
 # Publication type.
 # Legend:
