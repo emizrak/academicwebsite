@@ -1,6 +1,6 @@
 +++
 title = "Forgetting Emotional Material in Working Memory"
-date = "2013-07-01"
+date = "2017-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["E Mızrak", "H Singmann", "I Öztekin"]
