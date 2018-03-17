@@ -1,9 +1,9 @@
 +++
-title = "Mobile visual clothing search"
+title = "Forgetting Emotional Material in Working Memory"
 date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["E Mızrak", "H Singmann", "I Öztekin"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,13 @@ authors = ["GA Cushen", "MS Nixon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Social Cognitive Affective Neuroscience*"
+publication_short = "In *SCAN*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Proactive interference (PI) is the tendency for information learned earlier to interfere with more recently learned information. In the present study, we induced PI by presenting items from the same category over several trials. This results in a build-up of PI and reduces the discriminability of the items in each subsequent trial. We introduced emotional (e.g. disgust) and neutral (e.g. furniture) categories and examined how increasing levels of PI affected performance for both stimulus types. Participants were scanned using functional magnetic resonance imaging (fMRI) performing a 5-item probe recognition task. We modeled responses and corresponding response times with a hierarchical diffusion model. Results showed that PI effects on latent processes (i.e. reduced drift rate) were similar for both stimulus types, but the effect of PI on drift rate was less pronounced PI for emotional compared to neutral stimuli. The decline in the drift rate was accompanied by an increase in neural activation in parahippocampal regions and this relationship was more strongly observed for neutral stimuli compared to emotional stimuli."
+
+abstract_short = "There is less forgetting for emotional material than neutral material in working memory. We investigated whether this difference was only quantitative (numerical) or whether there was qualitative differences in the neural responses to the stimulus types. There was evidence for qualitative differences between the stimulus types, however, it was not as strong as expected suggesting that neural responses to forgetting of emotional and neutral material is more similar to each other than they are different."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -59,7 +60,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "headers/MSO_SCAN.jpg"
 caption = "My caption :smile:"
 
 +++
