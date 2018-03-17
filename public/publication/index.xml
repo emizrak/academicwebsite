@@ -14,19 +14,28 @@
     
     <item>
       <title>Forgetting Emotional Material in Working Memory</title>
-      <link>/publication/clothing-search/</link>
+      <link>/publication/emotionandforgetting/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/emotionandforgetting/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
       <title>Working Memory Capacity and Controlled Serial Memory Search</title>
-      <link>/publication/person-re-identification/</link>
+      <link>/publication/wmcandmemorysearch/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/wmcandmemorysearch/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Forgetting Emotional Material in Working Memory</title>
+      <link>/publication/emotionandforgetting1/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/emotionandforgetting1/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

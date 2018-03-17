@@ -34,11 +34,11 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+projects = [""]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = ""
+url_preprint = ""
 url_code = "#"
 url_dataset = "#"
 url_project = "#"
