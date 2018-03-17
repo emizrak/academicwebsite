@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Neural representations of memory for past experiences",
+    "Forgetting Emotional Information",
+    "Efficient retrieval from working memory"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Cognitive Psychology"
+  institution = "Koç University, Istanbul"
+  year = 2017
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
