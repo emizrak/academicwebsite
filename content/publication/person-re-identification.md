@@ -1,6 +1,6 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
-date = "2015-09-01"
+title = "Working Memory Capacity and Controlled Serial Memory Search"
+date = "2016-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["GA Cushen"]
@@ -17,12 +17,12 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = "In *SITIS*"
+publication = "In *Cognition*"
+publication_short = "In *Cognition*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
-abstract_short = ""
+abstract = "The speed–accuracy trade-off (SAT) procedure was used to investigate the relationship between working memory capacity (WMC) and the dynamics of temporal order memory retrieval. High- and low-span participants (HSs, LSs) studied sequentially presented five-item lists, followed by two probes from the study list. Participants indicated the more recent probe. Overall, accuracy was higher for HSs compared to LSs. Crucially, in contrast to previous investigations that observed no impact of WMC on speed of access to item information in memory (e.g., Öztekin & McElree, 2010), recovery of temporal order memory was slower for LSs. While accessing an item’s representation in memory can be direct, recovery of relational information such as temporal order information requires a more controlled serial memory search. Collectively, these data indicate that WMC effects are particularly prominent during high demands of cognitive control, such as serial search operations necessary to access temporal order information from memory."
+abstract_short = "We assessed the impact of working memory capacity on relational memory retrieval. Participants completed a response-deadline version of the judgments of recency task. Low span individuals accessed temporal order memory slower than high spans. This was due to delayed initiation and slower execution of serial memory search."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -55,7 +55,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "headers/MO_Cognition.jpg"
 caption = ""
 
 +++
