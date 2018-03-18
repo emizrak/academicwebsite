@@ -39,12 +39,12 @@ projects = [""]
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = "https://osf.io/uqx37/"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "#"
+url_poster = "https://osf.io/uqx37/"
 url_source = ""
 
 # Custom links (optional).
