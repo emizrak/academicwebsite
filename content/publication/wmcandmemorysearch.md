@@ -28,7 +28,7 @@ abstract_short = "We assessed the impact of working memory capacity on relationa
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

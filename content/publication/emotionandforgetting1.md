@@ -14,7 +14,7 @@ authors = ["E Mızrak", "I Öztekin"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Emotion*"
@@ -29,12 +29,12 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [""]
+#projects = [""]
 
 # Links (optional).
 url_pdf = ""
