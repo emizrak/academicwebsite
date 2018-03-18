@@ -44,7 +44,7 @@ url_dataset = "https://osf.io/uqx37/"
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "https://osf.io/uqx37/"
+url_poster = "https://osf.io/m7bhp/"
 url_source = ""
 
 # Custom links (optional).
