@@ -16,6 +16,7 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
+
 [[education.courses]]
   course = "PhD in Cognitive Psychology"
   institution = "Koç University, Istanbul"
