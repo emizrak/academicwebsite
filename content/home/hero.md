@@ -1,8 +1,8 @@
 +++
 # Hero widget.
-widget = "hero"
-active = true
-date = 2017-10-15
+# widget = "hero"
+# active = true
+# date = 2017-10-15
 
 #title = "Damn Memory"
 
