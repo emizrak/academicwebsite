@@ -16,19 +16,7 @@ weight = 3
   overlay_img = "headers/personalheader.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-# Call to action button (optional).
-#   Activate the button by specifying a URL and button label below.
-#   Deactivate by commenting out parameters, prefixing lines with `#`.
-# [cta]
-#   url = "./post/getting-started/"
-#   label = '<i class="fa fa-download"></i> Install Now'
-# +++
 
-#<br>
-#<small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
-#<br><br>
-# <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
-# <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
 
 <script type="text/javascript">
   (function defer() {
