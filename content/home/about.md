@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral scholar at the University of California, Davis. 
+I am a postdoctoral scholar at the University of Zurich. 
 I am interested in retrieval from memory. How we fail to retrieve and forget, how we can retrieve more efficiently. 
 
