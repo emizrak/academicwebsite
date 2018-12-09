@@ -17,6 +17,16 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 
+[[work.experiences]]
+  position = "Postdoctoral Scholar"
+  institution = "University of Zurich"
+  year = 2018-
+  
+[[work.experiences]]
+  position = "Postdoctoral Scholar"
+  institution = "University of California, Davis"
+  year = 2017-2018
+
 [[education.courses]]
   course = "PhD in Cognitive Psychology"
   institution = "Koç University, Istanbul"
