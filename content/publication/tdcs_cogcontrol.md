@@ -1,6 +1,6 @@
 +++
-title = "Impact of oscillatory tDCS targeting left prefrontal cortex on source memory retrieval"
-date = "2018-08-01"
+title = "Prefrontal transcranial direct current stimulation (tDCS) enhances behavioral and EEG markers of proactive control"
+date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["M Boudewyn, B Roberts, E Mızrak, C Ranganath, C Carter"]
