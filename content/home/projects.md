@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Word Similarity"
+  tag = ".word-similarity"
 
 [[filter]]
   name = "Other"
