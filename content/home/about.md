@@ -20,12 +20,12 @@ weight = 5
 [[work.experiences]]
   position = "Postdoctoral Scholar"
   institution = "University of Zurich"
-  year = 2018-
+  year = 2018
   
 [[work.experiences]]
   position = "Postdoctoral Scholar"
   institution = "University of California, Davis"
-  year = 2017-2018
+  year = 2017
 
 [[education.courses]]
   course = "PhD in Cognitive Psychology"
