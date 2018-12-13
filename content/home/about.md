@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-* Postdoctoral Scholar at the University of Zurich (2018 - )
+* Postdoctoral Scholar at the University of Zurich (since May 2018)
 * Postdoctoral Scholar at the University of California (2017 - 2018)
 * PhD in Cognitive Psychology (2017)
 * I am interested in retrieval from memory; how we fail to retrieve and forget, how we can retrieve more efficiently. 
