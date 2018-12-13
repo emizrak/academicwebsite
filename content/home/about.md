@@ -12,20 +12,11 @@ weight = 5
   interests = [
     "Neural representations of memory for past experiences",
     "Forgetting Emotional Information",
-    "Efficient retrieval from working memory"
+    "Efficient retrieval from working memory", 
+    
   ]
 
 # List your qualifications (such as academic degrees).
-
-[[work.experiences]]
-  position = "Postdoctoral Scholar"
-  institution = "University of Zurich"
-  year = 2018
-  
-[[work.experiences]]
-  position = "Postdoctoral Scholar"
-  institution = "University of California, Davis"
-  year = 2017
 
 [[education.courses]]
   course = "PhD in Cognitive Psychology"
@@ -46,6 +37,9 @@ weight = 5
 
 # Biography
 
-I am a postdoctoral scholar at the University of Zurich. 
-I am interested in retrieval from memory. How we fail to retrieve and forget, how we can retrieve more efficiently. 
+* Postdoctoral Scholar at the University of Zurich (2018 - )
+* Postdoctoral Scholar at the University of California (2017 - 2018)
+* PhD in Cognitive Psychology (2017)
+* I am interested in retrieval from memory; how we fail to retrieve and forget, how we can retrieve more efficiently. 
+
 
