@@ -37,7 +37,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/Cognition_MO_2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://osf.io/3jhwx/"

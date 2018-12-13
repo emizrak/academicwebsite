@@ -37,7 +37,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "paper/CogNeuro_Mizrak_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

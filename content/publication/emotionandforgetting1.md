@@ -14,7 +14,7 @@ authors = ["E Mızrak", "I Öztekin"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Emotion*"
@@ -37,7 +37,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/Emotion_MO_2015.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://osf.io/uqx37/"

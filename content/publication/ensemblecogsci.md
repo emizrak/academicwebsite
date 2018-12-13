@@ -27,7 +27,7 @@ abstract = "Cognitive measurement models decompose observed behavior into latent
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -35,7 +35,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "paper/CogSci_Singmann_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

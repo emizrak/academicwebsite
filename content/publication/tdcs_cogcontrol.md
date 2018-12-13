@@ -28,7 +28,7 @@ abstract_short = "We assessed the impact of transcranial direct current stimulat
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,7 +36,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/CogNeuro_Boudewyn_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
