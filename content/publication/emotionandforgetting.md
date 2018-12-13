@@ -37,7 +37,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "papers/SCAN_ESO_2017.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
