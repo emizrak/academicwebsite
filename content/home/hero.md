@@ -22,5 +22,5 @@ weight = 3
 
 
 +++
-![](img/headers/personalheader_2.png)
+![](img/headers/personalheader_3.png)
 
