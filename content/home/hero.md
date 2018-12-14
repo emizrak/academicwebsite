@@ -13,10 +13,9 @@ weight = 3
 # Deactivate an option by commenting out the line, prefixing it with `#`.
 
 [header]
-# overlay_color = "#666"  # An HTML color value.
-# overlay_img = "headers/personalheader_4.png"  # Image path relative to your `static/img/` folder
-#  overlay_filter = 0  # Darken the image. Value in range 0-1.
+ overlay_color = "#666"  # An HTML color value.
+ overlay_img = "headers/personalheader_4.png"  # Image path relative to your `static/img/` folder
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 +++
 
-![](img/headers/personalheader_4.png)
