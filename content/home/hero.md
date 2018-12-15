@@ -19,4 +19,4 @@ weight = 3
 
 +++
 
-![](img/headers/personalheader_6.png)
+![](img/headers/personalheader_6.png#centereda)
