@@ -10,5 +10,10 @@
   animation-delay: 0.25s;
 }
 
+.hero-lead {
+  max-width: 1140px;
+  font-size: 1.35rem;
+}
+
 #responsive-image {  width: 100%;  height: auto; }
 
