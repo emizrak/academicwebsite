@@ -14,9 +14,8 @@ weight = 3
 
 [header]
  overlay_color = "#666"  # An HTML color value.
- overlay_img = "headers/perhed4.png"  # Image path relative to your `static/img/` folder
+ overlay_img = "headers/personalheader_5.png"  # Image path relative to your `static/img/` folder
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 +++
 
-![](img/headers/pershed.png)
