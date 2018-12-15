@@ -19,4 +19,4 @@ weight = 3
 
 +++
 
-![](img/headers/personalheader_6.png){width=100%}
+<img src="img/headers/personalheader_6.png" width="100%" />
