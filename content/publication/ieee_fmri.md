@@ -14,7 +14,7 @@ authors = ["I Onal, M Ozay, E Mızrak, I Oztekin, FTY Vural"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *IEEE Transactions on Signal and Information Processing over Networks*"
@@ -37,7 +37,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = "papers/IEEE_OOMOYV_2016.pdf"
+url_pdf = "paper/IEEE_OOMOYV_2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
