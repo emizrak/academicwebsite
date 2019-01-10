@@ -35,7 +35,7 @@ selected = false
 #projects = [""]
 
 # Links (optional).
-url_pdf = "paper/CogSci_Singmann_2018.pdf"
+url_pdf = "papers/CogSci_Singmann_2018.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -25,6 +25,9 @@ abstract = "How neurons influence each other’s firing depends on the strength 
 in the brain for cognitive state or task classification. We examine the representative power of ourmesh edge weights on visual recognition and emotional memory retrieval experiments by training a
 support vector machine classifier. Also, we use mesh edge weights as feature vectors of inter-subject classification onHuman Connectome Project task fMRI dataset, and test their performance. We observe that mesh edge weights perform better than the popular fMRI features, such as, raw voxel intensity values, pairwise correlations, features extracted using PCA and ICA, for classifying the cognitive states."
 
+abstract_short = ""
+
+
 # Featured image thumbnail (optional)
 image_preview = ""
 
@@ -37,7 +40,7 @@ selected = true
 #projects = [""]
 
 # Links (optional).
-url_pdf = "paper/IEEE_OOMOYV_2016.pdf"
+url_pdf = "papers/IEEE_OOMOYV_2016.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
