@@ -6,7 +6,7 @@ date = "2018-05-27"
 title = "Is similarity a double-edged sword for memory?"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Is similarity a double-edged sword for memory?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "similarity.jpg"
