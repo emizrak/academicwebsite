@@ -33,8 +33,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Word Similarity"
-  tag = ".word-similarity"
+  name = "Similarity and Memory"
+  tag = ".similarity"
 
 [[filter]]
   name = "Other"

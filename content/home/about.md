@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Neural representations of memory for past experiences",
-    "Forgetting Emotional Information",
+    "Forgetting",
     "Efficient retrieval from working memory", 
     
   ]
