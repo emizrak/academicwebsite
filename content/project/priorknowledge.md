@@ -6,11 +6,7 @@ date = "2018-05-27"
 title = "Building on prior knowledge when learning novel things"
 
 # Project summary to display on homepage.
-<<<<<<< HEAD
-summary = "Learning is easier when you are familiar with the material. You can build on the knowledge that resides in your long-term memory where our life-long memories are saved. For instance, you need to go to the dentist. You find one, make an appointment, and find the address. You see that it is a few blocks away from your favorite coffee shop. You think 'I got this!' and head out. You know exactly how to go to the coffee shop and there is no need to learn this part of the way. Instead, you focus on the novel parts. Research shows that learning something that consists of already known material is easier compared to a completely novel information such as an address you know nothing about. I am very interested in how this works and I design experiments similar to these examples and test people's memories for the novel, partially-known, or completely known information and examine how prior knowledge facilitates learning."
-=======
 summary = "Learning is easier when you are familiar with the material. You can build on the knowledge that resides in your long-term memory where we save our life-long memories. For instance, you need to go to the dentist. You find one, make an appointment, and find the address. You see that is is a few blocks away from your favorite coffee shop. You think 'I got this!' and head out. You know exactly how to go to the coffee shop and there is no need to learn this part of the way. Instead, you focus on the novel parts. Research shows that learning something that consists of already known material is easier compared to a completely novel information such as an address you know nothing about. I am very interested in how this works and I design experiments similar to these examples and test people's memories for the novel, partially-known, or completely known information and examine how prior knowledge facilitates learning."
->>>>>>> 696d2f4d1d7b796e5ed698bb5b296c76276f87a6
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
