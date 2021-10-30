@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Psychological Science*"
-publication_short = "In *Psych Science *"
+publication_short = "In *Psych Science*"
 
 # Abstract and optional shortened version.
 abstract = "Giving people more time to process information in working memory improves their performance on working memory tasks. It is often assumed that free time given after presentation of an item enables maintenance processes to counteract forgetting of this item, suggesting that time has a retroactive benefit. Two other hypotheses—short-term consolidation and temporal distinctiveness—entail a local effect of time on immediately preceding and following items. Here, we show instead a novel global and proactive benefit of time in working memory. In three serial-recall experiments (Ns = 21, 25, and 26 young adults, respectively), we varied the position and duration of the free time within a seven-item list of consonants. Experiment 1 showed that the effect is global and not local. Experiments 2a and 2b showed that increased interitem time benefited performance only for the subsequent items, implying a proactive benefit. This finding rules out maintenance processes, short-term consolidation, and temporal distinctiveness as explanations of the free-time benefit but is consistent with the proposal of a gradually recovering encoding resource."
