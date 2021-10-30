@@ -29,7 +29,7 @@ abstract_short = "In this study,we propose a computational model to estimate the
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
