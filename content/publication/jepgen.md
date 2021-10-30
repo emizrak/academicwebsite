@@ -1,6 +1,5 @@
 +++
-title = "Working Memory Recruits Long-Term Memory When It Is Beneficial:
-Evidence From the Hebb Effect"
+title = "Working Memory Recruits Long-Term Memory When It Is Beneficial: Evidence From the Hebb Effect"
 date = "2021-05-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
