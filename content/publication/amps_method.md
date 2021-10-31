@@ -3,7 +3,7 @@ title = "Assessing theoretical conclusions with blinded inference to investigate
 date = "2019-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jeffrey J Starns, Andrea M Cataldo, Caren M Rotello, Jeffrey Annis, Andrew Aschenbrenner, Arndt Bröder, Gregory Cox, Amy Criss, Ryan A Curl, Ian G Dobbins, John Dunn, Tasnuva Enam, Nathan J Evans, Simon Farrell, Scott H Fraundorf, Scott D Gronlund, Andrew Heathcote, Daniel W Heck, Jason L Hicks, Mark J Huff, David Kellen, Kylie N Key, Asli Kilic, Karl Christoph Klauer, Kyle R Kraemer, Fábio P Leite, Marianne E Lloyd, Simone Malejka, Alice Mason, Ryan M McAdoo, Ian M McDonough, Robert B Michael, Laura Mickes, Eda Mizrak, David P Morgan, Shane T Mueller, Adam Osth, Angus Reynolds, Travis M Seale-Carlisle, Henrik Singmann, Jennifer F Sloane, Andrew M Smith, Gabriel Tillman, Don van Ravenzwaaij, Christoph T Weidemann, Gary L Wells, Corey N White, Jack Wilson"]
+authors = ["J Starns, ..., Eda Mizrak, David P Morgan, ..., Gary L Wells, Corey N White, Jack Wilson"]
 
 # Publication type.
 # Legend:
