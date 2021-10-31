@@ -29,7 +29,7 @@ abstract_short = "Working memory is our mind’s blackboard, where we can keep i
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
