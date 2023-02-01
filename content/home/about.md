@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Neural representations of memory for past experiences",
     "Forgetting",
+    "Working Memory mechanisms",
     "Efficient retrieval from working memory", 
     
   ]
@@ -37,9 +38,11 @@ weight = 5
 
 # Biography
 
+* Lecturer at the University of Sheffield (since Sept 2022)
+* Marie Curie Fellow (UKRI funded) at the University of Oxford (since Oct 2022)
 * Postdoctoral Scholar at the University of Zurich (since May 2018)
 * Postdoctoral Scholar at the University of California (2017 - 2018)
 * PhD in Cognitive Psychology (2017)
-* I am interested in retrieval from memory; how we fail to retrieve and forget, how we can retrieve more efficiently. 
+* I am interested in human memory; how we remember and forget, how we represent information in our memory. 
 
 
