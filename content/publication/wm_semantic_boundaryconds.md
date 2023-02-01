@@ -18,8 +18,8 @@ authors = ["B Kowialiewski","J Krasnoff,"E Mızrak", "K Oberauer"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Cognition*"
-publication_short = "In *Cognition*"
+publication = "In *Journal of Memory and Language*"
+publication_short = "In *JML*"
 
 # Abstract and optional shortened version.
 abstract = "The ability to store information in verbal working memory (WM) closely interacts with our linguistic knowledge. For instance, we can hold semantically related words (e.g., “cat, dog, bird”) better in our WM than unrelated ones (e.g., “desk, pillow, mouse”). This study investigates boundary conditions of the beneficial effect of semantic relatedness of words on immediate memory for lists. Independently varying the encoding and recall order for lists of related words, we unraveled several mechanistic explanations of the semantic relatedness effect. We first tested a semantic cueing mechanism, according to which the recall of an item facilitates the recall of other semantically related items. We next disentangled an interactive activation versus feature overlap account of semantic relatedness. Whereas the former predicts that the semantic relatedness effect emerges from the temporal co-activation of related items, the latter predicts that it emerges from the superposition of semantic features bound to similar contexts. Our results demonstrate that semantic relatedness affects WM performance at the encoding stage of WM processing, which rules out semantic cueing as a plausible mechanism. Further, the temporal order in which words are presented was the most important determinant of the semantic relatedness effect, in agreement with the interactive activation account. This study supports a model in which semantic relatedness supports WM through interactive activation occurring in semantic long-term memory."
