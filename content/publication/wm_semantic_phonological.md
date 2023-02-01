@@ -3,7 +3,7 @@ title = "Verbal working memory encodes phonological and semantic information dif
 date = "2023-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["B Kowialiewski","J Krasnoff,"E Mızrak", "K Oberauer"]
+authors = ["B Kowialiewski","J Krasnoff","E Mızrak", "K Oberauer"]
 
 # Publication type.
 # Legend:
