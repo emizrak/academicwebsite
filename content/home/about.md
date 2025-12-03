@@ -13,6 +13,7 @@ weight = 5
     "Neural representations of memory for past experiences",
     "Forgetting",
     "Working Memory mechanisms",
+    "Interactions between Working Memory and Long-term Memory",
     "Efficient retrieval from working memory", 
     
   ]
@@ -38,8 +39,9 @@ weight = 5
 
 # Biography
 
-* Lecturer at the University of Sheffield (since Sept 2022)
+* Lecturer at the Queen Mary University of London (since Sept 2023)
 * Marie Curie Fellow (UKRI funded) at the University of Oxford (since Oct 2022)
+* Lecturer at the University of Sheffield (2022 - 2023)
 * Postdoctoral Scholar at the University of Zurich (since May 2018)
 * Postdoctoral Scholar at the University of California (2017 - 2018)
 * PhD in Cognitive Psychology (2017)
